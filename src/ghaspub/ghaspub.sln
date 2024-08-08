@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ghaspubweb", "ghaspubweb\ghaspubweb.csproj", "{ECC153BB-1EE9-4D39-9317-F0A7A803FF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ghaspubweb.Tests", "ghaspubweb.Tests\ghaspubweb.Tests.csproj", "{60CB5C26-A071-45D7-B99F-0F40D3640DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC153BB-1EE9-4D39-9317-F0A7A803FF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC153BB-1EE9-4D39-9317-F0A7A803FF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC153BB-1EE9-4D39-9317-F0A7A803FF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC153BB-1EE9-4D39-9317-F0A7A803FF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CB5C26-A071-45D7-B99F-0F40D3640DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CB5C26-A071-45D7-B99F-0F40D3640DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CB5C26-A071-45D7-B99F-0F40D3640DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CB5C26-A071-45D7-B99F-0F40D3640DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9DA58FF-EC48-4D27-A8BD-32C8AD8B581E}
+	EndGlobalSection
+EndGlobal
